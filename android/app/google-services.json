@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467703910416",
+    "project_id": "eleven-f851a",
+    "storage_bucket": "eleven-f851a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467703910416:android:93510c46c67032bc673a95",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAin-2f8a4SBtW_8ACrUbGQAohl8vwA7Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
